@@ -6,6 +6,7 @@ Programming assignments from CS6510 course during Aug - Nov 2017.
 
 1. PA1
 2. Kaggle Challenge
+3. PA2
 
 ---
 Copyright (c) 2017 Prateek Kumar
